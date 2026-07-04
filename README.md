@@ -1,4 +1,4 @@
- # Taller #3: Limpieza, Ingeniería y Validación de Datos ☕📊
+ # Taller #3: Limpieza, Ingeniería y Validación de Datos 📊
 
 ## 📋 Información del Proyecto
 * **Profesora:** Adriana Collaguazo
@@ -15,7 +15,7 @@ El objetivo principal de este taller es aplicar técnicas de preprocesamiento, l
 
 ## 🗄️ Dataset Utilizado
 * **Nombre:** `dirty_cafe_sales.csv` ("Tech Coffee Shop")
-* **Volumen inicial:** 10,000 registros.
+* **Cantidad de registro inicial:** 10,000 registros.
 * **Estado inicial del Dataset:**
   * **Problemas de Tipo:** Todas las variables fueron inicialmente interpretadas como tipo `object` (cadena de texto).
   * **Datos Faltantes:** Alta concentración de valores nulos, especialmente en las columnas `Location` y `Payment Method` (identificado mediante gráficos de calor con la librería `missingno`).
